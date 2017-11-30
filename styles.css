@@ -1,0 +1,30 @@
+.container {
+    width: 350px;    
+    align-self: center;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.border {
+    border: 1px solid blue;
+    border-radius: 10px;
+}
+
+.spacing {
+        margin: 10px 25px;
+}
+
+.no-bullets {
+    list-style-type:none
+}
+
+.label {
+    font-weight:bold;
+}
+.center {
+    text-align: center;
+}
+
+.title {
+    text-decoration:underline;
+    font-style:italic;
+}
